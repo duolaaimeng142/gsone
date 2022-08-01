@@ -2,7 +2,7 @@
 
 # configs
 AUUID=b4fdb6a2-402d-46ae-8a8d-5532afa1e26d 
-CADDYIndexPage=b4fdb6a2-402d-46ae-8a8d-5532afa1e26d
+CADDYIndexPage=https://github.com/flexdinesh/dev-landing-page/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/duolaaimeng142/gsone/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/duolaaimeng142/gsone/master/etc/wry.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
